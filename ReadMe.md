@@ -2,7 +2,7 @@
 Aerospace Engineering student at TUS with a strong software development background from SoftUni and IT Step. I bridge the gap between engineering and code - building real-world applications while studying the physics that govern flight and space.
 What I build: From animal sample tracking systems and PHP reporting tools to Excel automation and data pipelines.
 What drives me: Space technology, satellites, and AI applications. I'm passionate about the intersection of software and aerospace - whether that's contributing to space systems or simulating engineering problems programmatically.
-Beyond the screen: Stargazing, volleyball, tennis, and creative projects — including procedural animations and 3D visualizations.
+Beyond the screen: Stargazing, volleyball, tennis, and creative projects - including procedural animations and 3D visualizations.
 
 
 ## 🌐 Socials:
